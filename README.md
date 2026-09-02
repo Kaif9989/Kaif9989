@@ -1,3 +1,4 @@
+💫 About Me:
 I'm a Data Analyst with a BSc in Computer Science and a passion for turning raw data into meaningful insights and solving real-world problems. I enjoy building projects using Excel, SQL, Python, and Power BI, creating interactive dashboards, and continuously improving my analytical skills through hands-on practice.
 
 I'm currently focused on strengthening my knowledge of Advanced Power BI (DAX & Power Query), SQL, Python (Pandas), and data storytelling while building a portfolio of real-world analytics projects. My computer science background gives me a strong foundation in logical problem-solving, which I combine with analytics tools to turn data into clear, actionable insights. My goal is to gain practical experience, keep learning, and grow into a professional Data Analyst by working on meaningful business problems.
